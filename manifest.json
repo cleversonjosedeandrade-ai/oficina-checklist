@@ -1,24 +1,18 @@
-   {
-     "name": "Oficina Mecânica - Checklist",
-     "short_name": "Oficina",
-     "description": "Sistema de gestão e checklist para oficina mecânica",
-     "start_url": "./index.html",
-     "display": "standalone",
-     "background_color": "#667eea",
-     "theme_color": "#667eea",
-     "orientation": "portrait-primary",
-     "icons": [
-       {
-         "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mNk+M9QDwADhgGAWjR9awAAAABJRU5ErkJggg==",
-         "sizes": "192x192",
-         "type": "image/png",
-         "purpose": "any maskable"
-       },
-       {
-         "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mNk+M9QDwADhgGAWjR9awAAAABJRU5ErkJggg==",
-         "sizes": "512x512",
-         "type": "image/png",
-         "purpose": "any maskable"
-       }
-     ]
-   }
+{
+  "name": "Oficina Mecânica - Checklist",
+  "short_name": "Oficina",
+  "description": "Sistema de gestão e checklist para oficina mecânica",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#667eea",
+  "theme_color": "#667eea",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
